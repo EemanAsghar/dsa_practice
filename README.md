@@ -26,3 +26,4 @@ Each solution is documented with explanations, complexity analysis, and minimal 
 - Run test cases with:
   ```bash
   pytest
+Daily progress is logged in the journal/ directory
